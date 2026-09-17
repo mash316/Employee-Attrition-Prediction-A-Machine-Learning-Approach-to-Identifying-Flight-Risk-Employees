@@ -81,7 +81,7 @@ Future improvements could include:
 
 ## Author
 
-**Your Name**  
+**Masrur Hoque**  
 Computer Science Student | AI Systems & Full-Stack Web Development  
 ML | DL | NLP | LLMs
 
